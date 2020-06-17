@@ -1,0 +1,346 @@
+@charset "utf-8";
+.logo {
+	margin-top: 8px;
+	margin-bottom: 8px;
+	margin-left: 44px;
+
+
+
+
+}
+.choose {
+	margin-left: 10px;
+	position: relative;
+	margin-right: 10px;
+	left: 38%;
+	float: left;
+	margin-top: 35px;
+	margin-bottom: 15px;
+}
+#top-bg {
+	background-color: #DAF8F3;
+}
+
+
+#greenline {
+	width: 100%;
+	height: 8px;
+	background-color: #2CCBB5;
+}
+.pic-bg {
+}
+.breadcrumb {
+	background-color: #FFFFFF;
+}
+
+.breadcrumb-item a {
+	color: #2CCBB5
+	
+}
+.coffee-bg {
+	position: fixed;
+	left: 0px;
+
+
+
+}
+.nav flex-column {
+
+}
+.navbar-toggler {
+}
+
+.bottontext {
+}
+
+.nav-link {
+
+}
+.menu {
+	margin-left: 80px;
+	margin-top: 40px;
+	color: #2CCBB5;
+	font-weight: bold;
+	font-size: 16pt;
+	padding-top: 0px;
+}
+#apan {
+	padding-top: 68px;
+}
+#prodoct {
+}
+.prodoct {
+}
+
+.prodoct:hover {
+	opacity: 60%
+}
+
+
+
+
+
+
+#coffeetown {
+	color: #2CCBB5;
+	font-family: 'Lato', sans-serif;
+	padding-top: 260px;
+	padding-left: 92px;
+	font-size: 66pt;
+	font-style: italic;
+	font-weight: bold;
+}
+#coffeetown:hover {
+	color: #2CCBB5;
+	font-size: 75pt;
+	font-family: 'Lato', sans-serif;
+	padding-top: 270px;
+	padding-left: 92px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.bottontext {
+	margin-top: 40px;
+	font-size: 16pt;
+	font-family: 'Lato', sans-serif;
+	color: #2CCBB5;
+	font-weight: bold;
+	top: 50px;
+	left: 103px;
+	margin-left: 157px;
+}
+
+
+
+
+#botton {
+	margin-top: 54px;
+
+}
+#botton1 {
+
+	
+}
+#botton1.nav-link :hover {
+	color: #F8A50D;
+	font-family: 'Lato', sans-serif;
+	font-size: 28pt;
+	margin-top: 54px;
+}
+
+
+.tex-area {
+	color: #2CCBB5;
+	font-size: 98pt;
+}
+
+#cake {
+	color: #2CCBB5;
+	font-family: 'Lato', sans-serif;
+	font-size: 66pt;
+	font-style: italic;
+	font-weight: bold;
+	padding-left: 199px;
+	position: absolute;
+	top: 296px;
+	margin-left: 0px;
+	padding-right: 57px;
+	left: 193px;
+}
+#dec {
+	height: 34px;
+	background-color: #A9ECE2;
+}
+
+
+
+
+#botton .nav-link:hover {
+	color: #F8A50D;
+	font-family: 'Lato', sans-serif;
+	font-size: 26pt;
+}
+#botton1 .nav-link:hover {
+	color:#FF9E00;
+	font-family: 'Lato', sans-serif;
+	font-size: 20pt;
+	margin-top: 50px;
+}
+
+#footer1 {
+	background-color: #A9ECE2;
+	font-family: 'Lato', sans-serif;
+}
+.footertex {
+	margin-left: 190px;
+	margin-top: 40px;
+	font-family: 'Lato', sans-serif;
+	color: #1A605D;
+
+}
+.footertex2 {
+	margin-left: 66px;
+	margin-top: 40px;
+	font-family: 'Lato', sans-serif;
+	color: #1A605D;
+}
+
+.footertex1 {
+	margin-top: 50px;
+	margin-bottom: 70px;
+	font-family: 'Lato', sans-serif;
+	color: #1A605D;
+}
+
+.nav-item a {
+	color: #1A605D;
+}
+
+
+
+@media screen and (max-width:768px){
+#coffeetown {
+	color: #2CCBB5;
+	font-family: 'Lato', sans-serif;
+	padding-top: 200px;
+	padding-left: 150px;
+	font-size: 36pt;
+	font-style: italic;
+	font-weight: bold;
+}
+#cake {
+	color: #2CCBB5;
+	font-family: 'Lato', sans-serif;
+	font-size: 50pt;
+	font-style: italic;
+	font-weight: bold;
+	padding-left: 80px;
+	position: absolute;
+	top: 205px;
+	margin-left: 0px;
+	padding-right: 57px;
+	left: 193px;
+}
+.footertex {
+	margin-left: 240px;
+	margin-top: 40px;
+	font-family: 'Lato', sans-serif;
+	color: #1A605D;
+}
+.footertex2 {
+	margin-left: 240px;
+	margin-top: 40px;
+	font-family: 'Lato', sans-serif;
+	color: #1A605D;
+}
+.nav.footertex1 {
+
+}
+.nav.flex-column {
+}
+
+	
+
+
+
+
+
+
+@media screen and (max-width:576px){
+#coffeetown {
+	color: #2CCBB5;
+	font-family: 'Lato', sans-serif;
+	padding-top: 150px;
+	padding-left: 130px;
+	font-size: 30pt;
+	font-style: italic;
+	font-weight: bold;
+}
+
+}
+
+@media screen and (max-width:576px){
+.bottontext {
+	
+	margin-top: 0px;
+	font-size: 0pt;
+	font-family: 'Lato', sans-serif;
+	color: #2CCBB5;
+	font-weight: bold;
+	top: 0px;
+	left: 0px;
+	margin-left: 0px;
+}
+
+}
+
+@media screen and (max-width:576px){
+.logo {
+	margin-top: 18px;
+	margin-bottom: 0px;
+	margin-left: 186px;
+}
+
+}
+
+@media screen and (max-width:576px){
+.footertex {
+	margin-left: 140px;
+	margin-top: 30px;
+	
+	font-family: 'Lato', sans-serif;
+	color: #1A605D;
+}
+.footertex2 {
+	margin-left: 140px;
+	margin-top: 20px;
+	
+	font-family: 'Lato', sans-serif;
+	color: #1A605D;
+}
+.nav.footertex1 {
+	margin-left: 68px;
+}
+.prodoct {
+	margin-top: 20px;
+	margin-left: 66px;
+}
+#cake {
+	color: #2CCBB5;
+	font-family: 'Lato', sans-serif;
+	font-size: 36pt;
+	font-style: italic;
+	font-weight: bold;
+	padding-left: 0px;
+	position: absolute;
+	top: 239px;
+	margin-left: 0px;
+	padding-right: 22px;
+	left: 210px;
+}
+
+
+
+
+
+}
+
+@media screen and (max-width:768px){
+	
+	
+
+
+}
+.menu { margin-left: 0px;
+	margin-top: 0px;
+	color: #2CCBB5;
+	font-weight: bold;
+	font-size: 0pt;
+	padding-top: 0px;
+}
+.breadcrumb-item {
+	color: 0;
+	
+	
+}
